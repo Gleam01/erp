@@ -1,11 +1,8 @@
-@media only screen and (max-width: 350px) {}
-
-@media only screen and (min-width: 351px) {}
-
-header,
+html,
+body,
+nav,
 footer {
     width: 100%;
-    background-image: linear-gradient(to right, rgba(223, 154, 24, 0.8), rgba(67, 129, 152, 0.9));
 }
 
 .success {
